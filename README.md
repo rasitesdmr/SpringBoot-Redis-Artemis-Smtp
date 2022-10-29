@@ -22,7 +22,7 @@ docker-compose up --build -d
 docker-compose down -v
 ```
 
-## 📌 Thymeleaf Maven Dependencies
+## 📌 Maven Dependencies
 
 ```xml
 
